@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".WriteQuestionActivity"
+    android:background="@drawable/backgroundall"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/textQuestion"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/writtenQuestion"
+        android:layout_marginTop="10dp"
+        android:textColorHint="#00204a"
+        android:textColor="#00204a"
+        android:inputType="textMultiLine"
+        android:hint="Enter your Question.."
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

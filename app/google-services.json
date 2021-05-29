@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548595891694",
+    "firebase_url": "https://doquery-76836.firebaseio.com",
+    "project_id": "doquery-76836",
+    "storage_bucket": "doquery-76836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548595891694:android:6749f1910526c96aa062ff",
+        "android_client_info": {
+          "package_name": "com.example.doquery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548595891694-gttv6gk6qitc0h21n4pjmo0kertt284s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4WrdwWhowtOqeTm-3iL6-A2kyJwvyCXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548595891694-gttv6gk6qitc0h21n4pjmo0kertt284s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
